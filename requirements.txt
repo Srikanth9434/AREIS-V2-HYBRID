@@ -1,0 +1,8 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+SpeechRecognition>=3.10
+edge-tts>=6.1
+sounddevice>=0.5
+pillow>=10.0
+pywinauto>=0.6.8

@@ -1,0 +1,5 @@
+{
+  "openai": ["sk-your-openai-key"],
+  "anthropic": ["sk-ant-your-claude-key"],
+  "nvidia": ["nvapi-your-nvidia-key"]
+}

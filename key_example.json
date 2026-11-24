@@ -1,0 +1,14 @@
+{
+    "openai": [
+        "sk-your-openai-api-key-1",
+        "sk-your-openai-api-key-2"
+    ],
+    "anthropic": [
+        "sk-ant-your-anthropic-api-key-1",
+        "sk-ant-your-anthropic-api-key-2"
+    ],
+    "nvidia": [
+        "nvapi-your-nvidia-api-key-1",
+        "nvapi-your-nvidia-api-key-2"
+    ]
+}
